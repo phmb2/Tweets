@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D3E61A93-8116-472A-9237-DED82D8E1F17"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87AFD677-2100-4D1D-883A-89125AEF3AA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tweets/Controller/ExploreController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "87AFD677-2100-4D1D-883A-89125AEF3AA8 - 6ec23ff3c7ed4820"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tweets.ExploreController.updateSearchResults(for: __C.UISearchController) -&gt; ()"
+                  moduleName = "Tweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrobarbosa/Documents/Tweets/Tweets/Controller/ExploreController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "525">
+               </Location>
+               <Location
+                  uuid = "87AFD677-2100-4D1D-883A-89125AEF3AA8 - 834df13e0903a2c6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Tweets.User) -&gt; Swift.Bool in Tweets.ExploreController.updateSearchResults(for: __C.UISearchController) -&gt; ()"
+                  moduleName = "Tweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrobarbosa/Documents/Tweets/Tweets/Controller/ExploreController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7A5D636-FEE7-4C28-A9D1-CE4F342BB11C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tweets/Controller/ExploreController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
